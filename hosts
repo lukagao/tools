@@ -1,0 +1,47 @@
+﻿
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+
+
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+
+
+
+10.200.117.148 sdk.data.pplive.com
+10.200.117.148 tinydrag.pptv.com
+10.200.117.148 player.pptvyun.com
+#172.20.4.94 ppmessager.pptv.com
+#10.200.90.39 play.api.pptv.com
+#10.200.64.139 play.api.webcdn.pptv.com
+#10.200.121.33 211.151.82.252
+10.200.117.148 play.api.pptv.com
+#10.200.121.163 api.ddp.vip.pptv.com
+#10.200.20.95 mtbu.api.pptv.com
+#10.200.121.163 jp.as.pptv.com
+#10.200.121.163 ssac.suning.com
+#10.200.121.163 api.ddp.vip.pptv.com
+#10.200.104.187 epg.api.pptv.com
+#10.200.121.33 ctlog.u.suning.com
+#10.200.121.33 logsit.u.cloudytrace.com
+
+#10.200.64.139 de.as.pptv.com
+#10.200.64.139 ios.synacast.com
+#10.200.64.139 detail.api.pptv.com
+#10.200.121.33 play.api.webcdn.pptv.com
+#10.200.121.33 play.api.pptv.com
+#10.200.16.146 epg.api.pptv.com
+
+
